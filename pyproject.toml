@@ -15,4 +15,5 @@ dependencies = [
     "torchaudio>=2.8.0",
     "torchvision>=0.23.0",
     "ucimlrepo==0.0.7",
+    "skillsnetwork"
 ]
