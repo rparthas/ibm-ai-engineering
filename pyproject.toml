@@ -18,4 +18,10 @@ dependencies = [
     "skillsnetwork",
     "Levenshtein",
     "torchtext>=0.6.0",
+    "dash>=2.9.3",
+    "dash-table>=5.0.0",
+    "plotly",
+    "portalocker>=2.8.2",
+    "seaborn>=0.13.2",
+    "torchdata>=0.9.0",
 ]
