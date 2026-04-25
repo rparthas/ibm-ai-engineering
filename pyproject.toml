@@ -14,6 +14,7 @@ dependencies = [
     "torch>=2.8.0",
     "torchaudio>=2.8.0",
     "torchvision>=0.23.0",
+    "transformers==4.35.2",
     "ucimlrepo==0.0.7",
     "skillsnetwork",
     "Levenshtein",

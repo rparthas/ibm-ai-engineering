@@ -12,3 +12,5 @@ wheels/
 
 fruits-360-original*
 *data*
+*.pth
+*.keras
