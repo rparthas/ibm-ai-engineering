@@ -3,26 +3,26 @@ name = "ibm-ai-engineering"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12,<3.13"
 dependencies = [
-    "jupyterlab>=4.4.6",
-    "matplotlib>=3.10.6",
-    "numpy>=2.3.2",
-    "pandas>=2.3.3",
-    "scikit-learn>=1.7.1",
-    "tensorflow>=2.20.0",
-    "torch>=2.8.0",
-    "torchaudio>=2.8.0",
-    "torchvision>=0.23.0",
+    "jupyterlab>=4.0.0",
+    "matplotlib==3.9.0",
+    "numpy==1.26.0",
+    "pandas==2.2.1",
+    "scikit-learn==1.5.0",
+    "tensorflow>=2.15.0",
+    "torch==2.3.0",
+    "torchaudio==2.3.0",
+    "torchvision==0.18.0",
     "transformers==4.35.2",
     "ucimlrepo==0.0.7",
     "skillsnetwork",
     "Levenshtein",
-    "torchtext>=0.6.0",
+    "torchtext==0.18.0",
     "dash>=2.9.3",
     "dash-table>=5.0.0",
     "plotly",
-    "portalocker>=2.8.2",
+    "portalocker==2.8.2",
     "seaborn>=0.13.2",
-    "torchdata>=0.9.0",
+    "torchdata==0.9.0",
 ]
