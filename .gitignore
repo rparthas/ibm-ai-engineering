@@ -13,4 +13,8 @@ wheels/
 fruits-360-original*
 *data*
 *.pth
+*.pt
 *.keras
+
+.vector_cache*
+results*
