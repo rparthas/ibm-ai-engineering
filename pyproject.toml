@@ -29,4 +29,15 @@ dependencies = [
     "protobuf>=3.20.3,<4.21.0",
     "seaborn>=0.13.2",
     "torchdata==0.9.0",
+    "torchmetrics>=1.4.0",
+    "trl==0.9.4",
+    "huggingface_hub",
+    "peft==0.11.1",
+    "bitsandbytes>=0.43.1",
+    "evaluate==0.4.0",
+]
+
+[tool.uv]
+required-environments = [
+    "sys_platform == 'darwin' and platform_machine == 'arm64'",
 ]
