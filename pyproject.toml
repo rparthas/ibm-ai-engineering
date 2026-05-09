@@ -35,6 +35,9 @@ dependencies = [
     "peft==0.11.1",
     "bitsandbytes>=0.43.1",
     "evaluate==0.4.0",
+    "rich",
+    "tqdm==4.66.4",
+    "sacrebleu==2.4.2",
 ]
 
 [tool.uv]
