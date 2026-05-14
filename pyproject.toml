@@ -45,6 +45,8 @@ dependencies = [
     "nltk>=3.9.4",
     "pypdf2>=3.0.1",
     "wget",
+    "sacremoses==0.1.1",
+    "sentencepiece==0.2.0",
 ]
 
 [tool.uv]
